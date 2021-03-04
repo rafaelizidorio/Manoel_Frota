@@ -72,6 +72,14 @@
     background-size: cover;
 }
 
+.grid-projects a:nth-child(2) .boxproject .boxproject-top{
+    height: 170px;
+
+    background-image: url("../assets/images/ivar.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
 .boxproject-top{
     border-radius: 10px 10px 0px 0px;
 
